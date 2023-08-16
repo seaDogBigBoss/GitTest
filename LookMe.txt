@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-asdasdasdd现在冲突合并
+asdasdasdd直接给你覆盖了
 =======
 
 >>>>>>> bra2
